@@ -3,8 +3,7 @@ public class WhoGoesThere{
 	public static void main(String[] args){
 		Scanner inputDevice = new Scanner(System.in);
 		
-		String firstName;
-		String lastName;
+		String firstName, lastName;
 		int age;
 		
 		System.out.print("Please inter your first name: ");
